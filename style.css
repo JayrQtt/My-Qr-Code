@@ -1,0 +1,42 @@
+
+body{
+    background:  hsl(212, 45%, 89%);
+    font-family: outfit;
+
+}
+
+.Main{
+    height: 540px;
+    width: 370px;
+    background-color: white;
+    border-radius: 20px;
+    margin: 150px 750px 0;
+}
+
+img{
+    width: 330px;
+    height: 330px;
+    padding: 15px 20px ;
+    border-radius: 35px;
+
+}
+
+p{
+    text-align: center;
+    font-size: 18px;
+    margin: 20px 30px;
+    opacity: 40%;
+}
+
+h2{
+    text-align: center;
+    font-size: 25px;
+    margin: 0px 20px;
+}
+
+.attribution{
+    width: 600px;
+    height: 30px;
+    margin: 0 720px 
+}
+
